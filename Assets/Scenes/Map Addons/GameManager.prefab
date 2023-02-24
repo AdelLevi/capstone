@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8707380419857162576
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 610912157224612283, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: endCam
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 680917259789789781, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: sceneId
+      value: 90626023
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2164317066762332242, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557880597419106239, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_Name
+      value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 4187627400794372060, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257044117947591730, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: endCam
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151044254020036632, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151044254020036632, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151044254486603614, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151044254486603614, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9fa0d2ad8c4f3a142963f96f45b4f878, type: 3}
